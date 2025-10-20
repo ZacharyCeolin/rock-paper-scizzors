@@ -1,6 +1,6 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scizzors
 
-A simple Python game where you play **Rock-Paper-Scissors** against the computer.  
+A simple Python game where you play **Rock-Paper-Scizzors** against the computer.  
 The first player (user or computer) to reach 3 wins ends the game.
 
 ---
